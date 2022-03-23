@@ -21,12 +21,12 @@
       "ApplovinBannerMax":"",
       "ApplovinNativeMax" : "",
 
-      "IronInterstitial" : "",
-      "IronBanner" : "",
+      "IronInterstitial" : "7852772",
+      "IronBanner" : "7852774",
 
 
     //admob or fan or max or unity or iron
-      "Network":"fan"
+      "Network":"iron"
 
 
     }
